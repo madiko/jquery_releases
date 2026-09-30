@@ -4,12 +4,12 @@ JQuery – the releases of jquery.min.js only
 
 released 2026-01-18 
 
-Source: [jquery – releases](https://github.com/jquery/jquery/releases)
-Authors: [jquery - people](https://github.com/orgs/jquery/people)
-
+Source: [jquery – releases](https://github.com/jquery/jquery/releases)  
+Authors: [jquery - people](https://github.com/orgs/jquery/people)  
+  
 Code: [jquery_4.0.0.min.js](https://github.com/madiko/jquery_releases/version-4x/jquery_4.0.0.min.js)  
 JQuery Blog: [jquery blog note](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)  
-
+  
 ---
 
 # Change Log

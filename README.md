@@ -14,7 +14,7 @@ In this repository I collect the latest (stable) versions of jquery. This list o
 
 ## JQuery 4.0.0
 
-[jquery_4.0.0.min.js](https://github.com/madiko/jquery_releases/version-4x/jquery_4.0.0.min.js)  
+[jquery_4.0.0.min.js](https://github.com/madiko/jquery_releases/blob/main/version-4x/jquery_4.0.0.min.js)  
 
 released 2026-01-18  
 [jquery change log](https://github.com/jquery/jquery/releases/tag/4.0.0) | [jquery blog note](https://blog.jquery.com/2026/01/17/jquery-4-0-0/) | [notes archive](https://github.com/madiko/jquery_releases/tree/main/version-4x/jquery_4.0.0.md)
@@ -22,7 +22,7 @@ released 2026-01-18
 
 ## JQuery 3.7.1
 
-[jquery_3.7.1.min.js](https://github.com/madiko/jquery_releases/version-3x/jquery_3.7.1.min.js)  
+[jquery_3.7.1.min.js](https://github.com/madiko/jquery_releases/blob/main/version-3x/jquery_3.7.1.min.js)  
 
 released 2023-08-28  
 [jquery change log](https://github.com/jquery/jquery/compare/3.7.0...3.7.1) | [jquery blog note](https://blog.jquery.com/2023/08/28/jquery-3-7-1-released-reliable-table-row-dimensions/) | [notes archive](https://github.com/madiko/jquery_releases/tree/main/version-3x/jquery_3.7.1.md)  
