@@ -1,6 +1,6 @@
-# JQuery Releases – version 3.7.1
+# jQuery Releases – version 3.7.1
 
-JQuery – the releases of jquery.min.js only
+jQuery – the releases of jquery.min.js only
 
 released 2023-08-28  
 
